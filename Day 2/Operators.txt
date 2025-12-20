@@ -1,0 +1,7 @@
+//There are many types of operators in java such as
+/* Arithmetic Operators (+,-,*,/)
+Assignment Operators (=, /=, -=, *=)
+Relational Operators(==, > , < , <=, >=, !=)
+Logical Operators(&&, ||, !)
+Bitwise Operators(&, |, ^, >>, <<)
+Misc Operators{( ? : )} 
