@@ -32,3 +32,14 @@ class SUM{
         
     }
 }
+
+/* OUTPUT
+
+
+Enter an Even number greater than 2: 12
+The sum of Prime numbers 7 and 5 is 12
+
+Enter an Even number greater than 2: 77
+You were suppose to enter an even number. 
+
+*/

@@ -16,3 +16,15 @@ class Prime{
         else System.out.println("it is not a prime number");
     }
 }
+/*
+
+OUTPUT
+
+Give me a numbers: 9
+it is not a prime number
+
+
+Give me a numbers: 73
+it is a prime number
+
+*/

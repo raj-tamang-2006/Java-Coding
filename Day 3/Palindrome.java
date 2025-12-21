@@ -17,3 +17,12 @@ class Palidrome{
         else System.out.print("It is not a palindrome number.");
     }
 }
+
+/*
+
+OUTPUT
+
+Give me a number: 121
+It is a palindrome number.
+
+*/
