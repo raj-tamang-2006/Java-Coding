@@ -29,7 +29,7 @@ class SUM{
             }
         }
         System.out.println("The sum of Prime numbers " + a +" and "+b+" is "+ num);
-        
+        sc.close();
     }
 }
 

@@ -15,6 +15,7 @@ class Palidrome{
         }
         if( org == rev ) System.out.print("It is a palindrome number.");
         else System.out.print("It is not a palindrome number.");
+        sc.close();
     }
 }
 

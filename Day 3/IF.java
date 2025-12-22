@@ -8,5 +8,6 @@ class IF{
 
         if(age >= 18) System.out.println("You can Vote");
         else System.out.println("You can't vote");
+        sc.close();
     }
 }

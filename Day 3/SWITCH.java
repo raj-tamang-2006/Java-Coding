@@ -1,6 +1,6 @@
 import java.util.*;
 class SWITCH{
-    public static int main(String[] a){
+    public static void main (String[] a){
         Scanner sc = new Scanner(System.in);
         System.out.print("Pick a number 1 - 7: ");
         int num = sc.nextInt();
@@ -14,9 +14,10 @@ class SWITCH{
             case 6 : System.out.println("Friday"); break;
             case 7 : System.out.println("Saturday"); break;
             default : System.out.println("Enter a number from 1 to 7");
-        }      
-        return 0; 
+        }
+        sc.close();                
     }
+
 }
 
 // OUTPUT

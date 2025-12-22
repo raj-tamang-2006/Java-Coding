@@ -13,6 +13,7 @@ class EQN2{
         double x1 = (-1*b+ Math.sqrt(b*b-4*a*c)) / (2 * a);
         double x2 = (-1*b- Math.sqrt(b*b-4*a*c)) / (2 * a);
         System.out.println("X1 = "+ x1 + " and "+ x2);
+        sc.close();
     }
 }
 

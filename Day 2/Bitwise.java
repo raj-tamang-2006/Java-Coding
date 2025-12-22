@@ -11,6 +11,7 @@ class Bitwise{
         System.out.println(a + " ^ " + b +" =  " + (a^b));
         System.out.println("~ " + a + " = " + (~a));
         System.out.println("~ " + b + " = " + (~b));
+        sc.close();
     }
 }
 

@@ -9,6 +9,7 @@ class User{
         System.out.print("Give me a number: ");
         int a =  sc.nextInt(); 
         System.out.println("The value of a is " + a);
+        sc.close();
     }
 }
 

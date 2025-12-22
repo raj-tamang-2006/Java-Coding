@@ -25,6 +25,7 @@ class Armstrong{
         
         if (value == org2) System.out.println("Its an armstrong number");
         else System.out.println("Its not an armstrong number");
+        sc.close();
     }
 }
 

@@ -17,7 +17,7 @@ class Assignment{
         System.out.println("c = c += b = "+ c);
         c -= c;
         System.out.println("c = c -= c = "+ c);
-        
+        sc.close();
     }
 }
 

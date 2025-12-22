@@ -17,6 +17,7 @@ class Relational{
         else {
             System.out.println(c + " is the largest number");
         }
+        sc.close();
     }
 }
 

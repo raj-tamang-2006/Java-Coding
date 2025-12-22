@@ -15,6 +15,7 @@ class FOR{
     
         System.out.println("The sum of all the numbers till "+ num + " is " + sum);
         System.out.println("The Factorial of "+ num + " is " + fact);
+        sc.close();
     }
 }
 

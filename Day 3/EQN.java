@@ -26,6 +26,7 @@ class EQN{
             }
         }
         System.out.println("X1 = "+ x1 + " and X2 = "+ x2);
+        sc.close();
     }
 }
 
