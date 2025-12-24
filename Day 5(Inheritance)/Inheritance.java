@@ -75,3 +75,22 @@ class Manager extends Employee {
         System.out.println("Department: " + department);
     }
 }
+
+/*
+
+OUTPUT
+
+Give me your name: Raj Tamang
+Tell me your salary, please: 78000
+Are you an
+1. Employee
+2. Manager
+Choose (1/2): 2
+What's your department? IT
+Name: Raj Tamang
+Salary: $78000.0
+Bonus: $15600.0
+Total amount: $93600.0
+Department: IT
+
+*/

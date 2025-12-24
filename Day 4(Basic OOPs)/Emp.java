@@ -27,3 +27,13 @@ class Employee{
         System.out.println("Employee Details\nName: "+ name+"\nSalary: $"+salary+"\nPosition: "+post);
     }
 }
+
+/*OUTPUT
+
+Employee Details
+Name: Raj Tamang
+Salary: $78000.0
+Position: Senior Developer and Security Architect
+
+*/
+

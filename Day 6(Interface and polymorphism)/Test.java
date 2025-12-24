@@ -23,3 +23,11 @@ class VideoPlayer implements Playable{
         System.out.println("You are using a Video Player");
     }
 }
+
+/*
+OUTPUT
+
+You are using a Music PLayer
+You are using a Video Player
+
+*/

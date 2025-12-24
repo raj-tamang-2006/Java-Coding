@@ -1,4 +1,5 @@
 // Immutable class
+// Immutable class
 import java.util.*;
 
 class Main{
@@ -9,7 +10,7 @@ class Main{
         
         int id = 1000 + rand.nextInt(3000);
         
-        System.out.print("Enter your Name");
+        System.out.print("Enter your Name: ");
         String name = sc.nextLine();
         
         Date joining = new Date();
@@ -45,3 +46,10 @@ public final class Employee {
 }
 
 
+
+/*OUTPUT
+
+Enter your Name: Raj Tamang
+Id : 3512
+Name : Raj Tamang
+Joining Date : 1766558015336*/

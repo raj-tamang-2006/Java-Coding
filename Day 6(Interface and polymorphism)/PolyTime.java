@@ -37,3 +37,14 @@ class Dog implements Animal{
         System.out.println("The Dog barks");
     }
 }
+/*
+
+OUTPUT
+
+Choose an animal
+1. Dog
+2. Cat
+Choice(1 or 2): 1
+The Dog barks
+
+*/

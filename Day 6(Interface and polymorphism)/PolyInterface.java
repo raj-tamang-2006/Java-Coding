@@ -35,3 +35,13 @@ class Boat implements Vehicle{
         System.out.println("The User is Sailing a Boat");
     }
 }
+
+/*
+
+OUTPUT
+
+The User is Riding a Bike
+The User is Driving a Car
+The User is Sailing a Boat
+
+*/

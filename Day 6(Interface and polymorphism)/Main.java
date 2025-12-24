@@ -26,5 +26,10 @@ class C implements A,B{
     }
 }
 
+/*OUTPUT
 
+This is interface A
+This is inteface B
+
+*/
 
