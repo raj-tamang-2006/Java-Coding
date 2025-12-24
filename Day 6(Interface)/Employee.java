@@ -9,7 +9,7 @@ class Main{
         
         int id = 1000 + rand.nextInt(3000);
         
-        System.out.println("Enter your Name");
+        System.out.print("Enter your Name");
         String name = sc.nextLine();
         
         Date joining = new Date();
